@@ -2,9 +2,9 @@
   "name": "my-resume-api-nestjs",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Daniel Vaz Villalobos Martins",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT License",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",

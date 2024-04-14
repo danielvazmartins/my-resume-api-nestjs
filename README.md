@@ -2,37 +2,23 @@
 Projeto utilizado para estudo e portifólio. Aqui estou desenvolvendo o backend utilizando Node.Js com o Framework do NestJs.
 Aplicando boas práticas, padrões de desenvolvimento e conhecimentos adquiridos ao longo da jornada.
 
-## Installation
-
+## Instalação
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Banco de Dados
+Esse projeto depende do acesso ao MongoDB. A configuração do banco está diretamente dentro do arquivo app.module. O MongoDB local está rodando através de um container Docker
 
+## Rodando o projeto
 ```bash
-# development
-$ npm run start
-
-# watch mode
+# Em desenvolvimento
 $ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
+## Acesso local
+http://localhost:3000/
+http://localhost:3000/swagger-ui
 
 ## Meu contato
 
@@ -40,5 +26,4 @@ $ npm run test:cov
 - LinkedIn - [@danielvazmartins](https://www.linkedin.com/in/danielvazmartins/)
 
 ## License
-
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE)
