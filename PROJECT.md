@@ -6,9 +6,9 @@
     - [ X ] Modules
         - [ X ] Users, [ X ] Resumes, [ X ] Auth
     - [ ] Controllers
-    - [ ] Interfaces / DTO
+    - [ ] Interfaces / DTOs
     - [ ] Services
-    - [ ] Schema
+    - [ ] Schemas
 
 ## Funcionalidades
 - [ X ] Swagger / OpenAPI
